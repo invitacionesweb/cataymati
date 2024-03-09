@@ -167,7 +167,7 @@ header {
 .lovestory .text {
     padding: 20px 20px;
     font-size: 1em;
-    max-width: 500PX;
+    max-width: 1200px;
     margin: auto;
     background-color: rgba(246, 243, 239, 0.85); /* Convierte el color hexadecimal a valores numéricos y ajusta la transparencia */
     color: var(--color-terciario);
