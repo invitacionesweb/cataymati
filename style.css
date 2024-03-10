@@ -203,7 +203,7 @@ header {
     font-weight: bolder;
    
 }
-.ubicacion-bloque1 p {
+.ubicacion-bloque p {
     padding:10px 40px 30px 40px;
     font-size: 1em;
     max-width: 400px;
@@ -293,6 +293,15 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.caja .agencia {
+}
+.caja .agencia p {
+    padding:0  40px ;
+}
+.caja .agencia a {
+    margin:5px 0 0 0;
+    width: 180px;
 }
 .dos { 
     width: 100%;
